@@ -16,7 +16,7 @@
 </p>
 <div align="center">
 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Tushar-Ranjan-Sahoo
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo/Tushar-Ranjan-Sahoo
 /snake-output/github-contribution-grid-snake-dark.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo
 /Tushar-Ranjan-Sahoo/snake-output/github-contribution-grid-snake.svg" />

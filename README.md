@@ -14,13 +14,7 @@
     <a href="https://leetcode.com/Tushar_Ranjan_Sahoo/"><img width="48%" src="https://leetcode.card.workers.dev/Tushar_Ranjan_Sahoo?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/Tushar-Ranjan-Sahoo"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Ranjan-Sahoo&theme=dark&hide_border=false"></a>
 </p>
-<div align="center">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo/Tushar-Ranjan-Sahoo/snake-output/github-contribution-grid-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo/Tushar-Ranjan-Sahoo/snake-output/github-contribution-grid-snake.svg" />
-	  <img alt="github-snake" src="https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo/Tushar-Ranjan-Sahoo/snake-output/github-contribution-grid-snake-dark.svg" />
-	</picture>
-</div>
+
 
 
 
